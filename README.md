@@ -20,8 +20,8 @@
 - HTML, CSS, JavaScript
 
 ## Tiến độ thực hiện
-- Tuần 1: Phân tích yêu cầu
-- Tuần 2: Thiết kế hệ thống
+- Tuần 1: Tìm hiểu lý thuyết
+- Tuần 2: Tìm hiểu lý thuyết chuyên sâu
 
 ## Sinh viên thực hiện
 - Lê Thị Hoài Linh
