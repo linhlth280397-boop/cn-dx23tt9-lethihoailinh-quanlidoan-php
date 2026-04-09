@@ -1,6 +1,6 @@
-#Báo cáo tiến độ tuần 2
+# Báo cáo tiến độ tuần 2
 
-##Công việc đã thực hiện
+## Công việc đã thực hiện
 
 ## Nghiên cứu lý thuyết (Tiếp)
 
