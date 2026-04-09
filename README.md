@@ -20,8 +20,7 @@
 - HTML, CSS, JavaScript
 
 ## Tiến độ thực hiện
-- Tuần 1: Tìm hiểu lý thuyết
-- Tuần 2: Tìm hiểu lý thuyết chuyên sâu
+- Tuần 1 - Tuần 7 học kỳ năm 2026
 
 ## Sinh viên thực hiện
 - Lê Thị Hoài Linh
