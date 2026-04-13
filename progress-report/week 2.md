@@ -1,17 +1,57 @@
-# Báo cáo tiến độ tuần 2
+# Báo cáo tiến độ - Tuần 2
 
-## Công việc đã thực hiện
+## 1. Tổng quan
+Trong tuần 2, em tiếp tục tập trung vào việc nghiên cứu lý thuyết nền tảng phục vụ cho việc xây dựng hệ thống website quản lý đồ án. Đồng thời, hoàn thiện các nội dung còn thiếu từ tuần 1.
 
-## Nghiên cứu lý thuyết (Tiếp)
+---
 
-### Tìm hiểu các lý thuyết liên quan đến đề tài
+## 2. Công việc đã thực hiện
 
-Trong tuần này, em đã tập trung nghiên cứu sâu hơn các lý thuyết nền tảng cho việc xây dựng một hệ thống quản lý như sau:
+### 2.1. Nghiên cứu lý thuyết (tiếp)
 
-*   **Lý thuyết về Quản lý Quan hệ (Relational Theory) & Chuẩn hóa Cơ sở Dữ liệu (Database Normalization):** Nghiên cứu các dạng chuẩn (1NF, 2NF, 3NF) để đảm bảo tính toàn vẹn và giảm thiểu dư thừa dữ liệu cho mô hình CSDL quản lý sinh viên, giảng viên và đề tài.
-*   **Lý thuyết về Thiết kế Web Động (Dynamic Web Design Principles):** Tìm hiểu các mô hình kiến trúc phổ biến như MVC (Model-View-Controller) mà các framework PHP (Laravel/CodeIgniter) thường áp dụng, giúp tách biệt logic nghiệp vụ và giao diện.
-*   **Quy trình Quản lý Đồ án:** Nghiên cứu các quy trình chuẩn của Khoa CNTT trong việc xét duyệt, theo dõi và đánh giá đồ án để áp dụng chính xác vào hệ thống.
+#### a. Lý thuyết về cơ sở dữ liệu
+- Tìm hiểu mô hình cơ sở dữ liệu quan hệ
+- Nghiên cứu các dạng chuẩn hóa dữ liệu (1NF, 2NF, 3NF)
 
-### Chọn lọc các lý thuyết phục vụ tốt cho đề tài
+#### b. Lý thuyết thiết kế web
+- Tìm hiểu nguyên lý thiết kế web động (Dynamic Web)
+- Nghiên cứu mô hình MVC (Model - View - Controller)
+- Tìm hiểu cách tổ chức code trong các framework PHP (Laravel, CodeIgniter)
 
-## Thực hiện tiếp các công việc còn chưa hoàn thiện của tuần 1
+#### c. Quy trình quản lý đồ án
+- Tìm hiểu quy trình thực tế trong quản lý đồ án tại khoa CNTT:
+  + Đăng ký đề tài
+  + Phân công giảng viên hướng dẫn
+  + Theo dõi tiến độ
+  + Nộp báo cáo
+  + Đánh giá
+
+---
+
+### 2.2. Hoàn thiện nội dung tuần 1
+- Rà soát lại yêu cầu đề tài
+- Bổ sung các thông tin còn thiếu
+
+---
+
+## 3. Kết quả đạt được
+- Nắm được các lý thuyết nền tảng phục vụ thiết kế hệ thống
+- Xác định rõ các chức năng chính của hệ thống
+- Có định hướng rõ ràng cho việc thiết kế database và hệ thống ở giai đoạn tiếp theo
+
+---
+
+## 4. Khó khăn gặp phải
+- Chưa có nhiều kinh nghiệm trong việc thiết kế hệ thống thực tế
+- Một số khái niệm về chuẩn hóa dữ liệu còn cần tìm hiểu thêm
+
+---
+
+## 5. Kế hoạch tuần 3
+- Phân tích hệ thống chi tiết hơn
+- Thiết kế database
+- Nộp đề cương đề tài
+- Vẽ sơ đồ Use Case
+- Bắt đầu xây dựng cấu trúc project
+
+---
