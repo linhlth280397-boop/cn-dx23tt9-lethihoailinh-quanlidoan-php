@@ -45,22 +45,29 @@ Trong tuần 3, em tập trung hoàn thiện nội dung đề cương dựa trê
 
 ---
 
+### 2.5. Bắt đầu thiết kế hệ thống
+- Định hình trang web
+- Tải 1 số phần mềm hỗ trợ xây dựng hệ thống
+- Demo các code cơ bản
+
 ## 3. Kết quả đạt được
 - Hoàn thiện đề cương đồ án ở mức có thể nộp
 - Xác định rõ hướng phát triển của hệ thống
 - Bắt đầu tiếp cận giai đoạn phân tích và thiết kế
+- Đã demo cấu trúc và giao diện
 
 ---
 
 ## 4. Khó khăn gặp phải
 - Chưa quen với việc phân tích hệ thống một cách bài bản
+- Bị bug nhiều trong quá trình thực hiện code
 
 ---
 
 ## 5. Kế hoạch tuần 4
 - Vẽ sơ đồ Use Case hoàn chỉnh
 - Thiết kế cơ sở dữ liệu
-- Xây dựng cấu trúc database
-- Chuẩn bị bắt đầu code các chức năng cơ bản
+- Xây dựng cấu trúc database hoàn thiện
+- Tiếp tục code các phần tiếp theo của hệ thống
 
 ---
